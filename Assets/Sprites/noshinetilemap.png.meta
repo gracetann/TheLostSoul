@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: bdc725b89c2f446958f7f1a8e5e29921
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 643675314635853837
+    second: noshinetilemap_0
+  - first:
+      213: -895217652402069266
+    second: noshinetilemap_1
+  - first:
+      213: 6333179450368855342
+    second: noshinetilemap_2
+  - first:
+      213: -4830416806148914467
+    second: noshinetilemap_3
+  - first:
+      213: -4620021862112143790
+    second: noshinetilemap_4
+  - first:
+      213: 1945071413244499392
+    second: noshinetilemap_5
+  - first:
+      213: 3878310975508496075
+    second: noshinetilemap_6
+  - first:
+      213: -2087555972616459310
+    second: noshinetilemap_7
+  - first:
+      213: -9155501163761841113
+    second: noshinetilemap_8
+  - first:
+      213: 7453876897246992425
+    second: noshinetilemap_9
+  - first:
+      213: 7895416447722667720
+    second: noshinetilemap_10
+  - first:
+      213: -3425543035457888753
+    second: noshinetilemap_11
+  - first:
+      213: -6909295611543007250
+    second: noshinetilemap_12
+  - first:
+      213: -2026858300292218016
+    second: noshinetilemap_13
+  - first:
+      213: 3466336793699719063
+    second: noshinetilemap_14
+  - first:
+      213: -3113619927220376966
+    second: noshinetilemap_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noshinetilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00de8fc94bcee800800000000000000
+      internalID: 643675314635853837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 863.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee06ae7c94c8393f0800000000000000
+      internalID: -895217652402069266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 863.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0a0ec729f3e750800000000000000
+      internalID: 6333179450368855342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 863.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ca68e189e6fcb0800000000000000
+      internalID: -4830416806148914467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2565446289262efb0800000000000000
+      internalID: -4620021862112143790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5943915284efa10800000000000000
+      internalID: 1945071413244499392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebea7b84782d530800000000000000
+      internalID: 3878310975508496075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 576.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db637b37e28703e0800000000000000
+      internalID: -2087555972616459310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ccc41133021f080800000000000000
+      internalID: -9155501163761841113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d5e3bb8d717760800000000000000
+      internalID: 7453876897246992425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 289.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce39407d67229d60800000000000000
+      internalID: 7895416447722667720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 289.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e18b032c60670d0800000000000000
+      internalID: -3425543035457888753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef40d19f304d10a0800000000000000
+      internalID: -6909295611543007250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063c7095d172fd3e0800000000000000
+      internalID: -2026858300292218016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797965cc2f6ea1030800000000000000
+      internalID: 3466336793699719063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noshinetilemap_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2.25
+        width: 288
+        height: 287.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa3704c233ac4d0800000000000000
+      internalID: -3113619927220376966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
