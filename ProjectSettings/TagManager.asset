@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Playable
+  - Soul
+  - Spike
+  - PlayableObject
+  - PlayableAnimal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Harmful
+  - InteractableObject
+  - Non-interactable
+  - Soul
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FarBackground
+    uniqueID: 837485701
+    locked: 0
+  - name: Background
+    uniqueID: 4031334925
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 2178507851
+    locked: 0
+  - name: Player
+    uniqueID: 3339416305
+    locked: 0
